@@ -1,0 +1,17 @@
+C:\Users\213036\source\repos\Farheniet\Farheniet\bin\Debug\net6.0-windows\Farheniet.exe
+C:\Users\213036\source\repos\Farheniet\Farheniet\bin\Debug\net6.0-windows\Farheniet.deps.json
+C:\Users\213036\source\repos\Farheniet\Farheniet\bin\Debug\net6.0-windows\Farheniet.runtimeconfig.json
+C:\Users\213036\source\repos\Farheniet\Farheniet\bin\Debug\net6.0-windows\Farheniet.dll
+C:\Users\213036\source\repos\Farheniet\Farheniet\bin\Debug\net6.0-windows\Farheniet.pdb
+C:\Users\213036\source\repos\Farheniet\Farheniet\obj\Debug\net6.0-windows\Farheniet.csproj.AssemblyReference.cache
+C:\Users\213036\source\repos\Farheniet\Farheniet\obj\Debug\net6.0-windows\Farheniet.Form1.resources
+C:\Users\213036\source\repos\Farheniet\Farheniet\obj\Debug\net6.0-windows\Farheniet.csproj.GenerateResource.cache
+C:\Users\213036\source\repos\Farheniet\Farheniet\obj\Debug\net6.0-windows\Farheniet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\213036\source\repos\Farheniet\Farheniet\obj\Debug\net6.0-windows\Farheniet.AssemblyInfoInputs.cache
+C:\Users\213036\source\repos\Farheniet\Farheniet\obj\Debug\net6.0-windows\Farheniet.AssemblyInfo.cs
+C:\Users\213036\source\repos\Farheniet\Farheniet\obj\Debug\net6.0-windows\Farheniet.csproj.CoreCompileInputs.cache
+C:\Users\213036\source\repos\Farheniet\Farheniet\obj\Debug\net6.0-windows\Farheniet.dll
+C:\Users\213036\source\repos\Farheniet\Farheniet\obj\Debug\net6.0-windows\refint\Farheniet.dll
+C:\Users\213036\source\repos\Farheniet\Farheniet\obj\Debug\net6.0-windows\Farheniet.pdb
+C:\Users\213036\source\repos\Farheniet\Farheniet\obj\Debug\net6.0-windows\Farheniet.genruntimeconfig.cache
+C:\Users\213036\source\repos\Farheniet\Farheniet\obj\Debug\net6.0-windows\ref\Farheniet.dll

@@ -1,0 +1,17 @@
+C:\Users\213036\source\repos\Square\Square\bin\Debug\net6.0-windows\Square.exe
+C:\Users\213036\source\repos\Square\Square\bin\Debug\net6.0-windows\Square.deps.json
+C:\Users\213036\source\repos\Square\Square\bin\Debug\net6.0-windows\Square.runtimeconfig.json
+C:\Users\213036\source\repos\Square\Square\bin\Debug\net6.0-windows\Square.dll
+C:\Users\213036\source\repos\Square\Square\bin\Debug\net6.0-windows\Square.pdb
+C:\Users\213036\source\repos\Square\Square\obj\Debug\net6.0-windows\Square.csproj.AssemblyReference.cache
+C:\Users\213036\source\repos\Square\Square\obj\Debug\net6.0-windows\Square.Form1.resources
+C:\Users\213036\source\repos\Square\Square\obj\Debug\net6.0-windows\Square.csproj.GenerateResource.cache
+C:\Users\213036\source\repos\Square\Square\obj\Debug\net6.0-windows\Square.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\213036\source\repos\Square\Square\obj\Debug\net6.0-windows\Square.AssemblyInfoInputs.cache
+C:\Users\213036\source\repos\Square\Square\obj\Debug\net6.0-windows\Square.AssemblyInfo.cs
+C:\Users\213036\source\repos\Square\Square\obj\Debug\net6.0-windows\Square.csproj.CoreCompileInputs.cache
+C:\Users\213036\source\repos\Square\Square\obj\Debug\net6.0-windows\Square.dll
+C:\Users\213036\source\repos\Square\Square\obj\Debug\net6.0-windows\refint\Square.dll
+C:\Users\213036\source\repos\Square\Square\obj\Debug\net6.0-windows\Square.pdb
+C:\Users\213036\source\repos\Square\Square\obj\Debug\net6.0-windows\Square.genruntimeconfig.cache
+C:\Users\213036\source\repos\Square\Square\obj\Debug\net6.0-windows\ref\Square.dll
